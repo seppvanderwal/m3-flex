@@ -1,0 +1,15 @@
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.csproj.AssemblyReference.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\bin\Debug\net6.0\Classes.exe
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\bin\Debug\net6.0\Classes.deps.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\bin\Debug\net6.0\Classes.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\bin\Debug\net6.0\Classes.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\refint\Classes.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Classes\Classes\obj\Debug\net6.0\ref\Classes.dll

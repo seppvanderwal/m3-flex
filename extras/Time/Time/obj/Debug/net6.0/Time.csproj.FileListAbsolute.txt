@@ -1,0 +1,15 @@
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\bin\Debug\net6.0\Time.exe
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\bin\Debug\net6.0\Time.deps.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\bin\Debug\net6.0\Time.runtimeconfig.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\bin\Debug\net6.0\Time.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\bin\Debug\net6.0\Time.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.csproj.AssemblyReference.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.AssemblyInfoInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.AssemblyInfo.cs
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.csproj.CoreCompileInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\refint\Time.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\Time.genruntimeconfig.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\Time\Time\obj\Debug\net6.0\ref\Time.dll

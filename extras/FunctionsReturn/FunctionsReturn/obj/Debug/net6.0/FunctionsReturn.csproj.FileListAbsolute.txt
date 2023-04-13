@@ -1,0 +1,15 @@
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\bin\Debug\net6.0\FunctionsReturn.exe
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\bin\Debug\net6.0\FunctionsReturn.deps.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\bin\Debug\net6.0\FunctionsReturn.runtimeconfig.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\bin\Debug\net6.0\FunctionsReturn.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\bin\Debug\net6.0\FunctionsReturn.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.csproj.AssemblyReference.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.AssemblyInfoInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.AssemblyInfo.cs
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.csproj.CoreCompileInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\refint\FunctionsReturn.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\FunctionsReturn.genruntimeconfig.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsReturn\FunctionsReturn\obj\Debug\net6.0\ref\FunctionsReturn.dll

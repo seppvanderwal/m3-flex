@@ -1,0 +1,15 @@
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\bin\Debug\net6.0\CalcExtra.exe
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\bin\Debug\net6.0\CalcExtra.deps.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\bin\Debug\net6.0\CalcExtra.runtimeconfig.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\bin\Debug\net6.0\CalcExtra.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\bin\Debug\net6.0\CalcExtra.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.csproj.AssemblyReference.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.AssemblyInfoInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.AssemblyInfo.cs
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.csproj.CoreCompileInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\refint\CalcExtra.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\CalcExtra.genruntimeconfig.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\calcextra\CalcExtra\obj\Debug\net6.0\ref\CalcExtra.dll

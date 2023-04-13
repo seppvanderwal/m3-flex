@@ -1,0 +1,15 @@
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\bin\Debug\net6.0\FunctionsDepth.exe
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\bin\Debug\net6.0\FunctionsDepth.deps.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\bin\Debug\net6.0\FunctionsDepth.runtimeconfig.json
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\bin\Debug\net6.0\FunctionsDepth.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\bin\Debug\net6.0\FunctionsDepth.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.csproj.AssemblyReference.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.AssemblyInfoInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.AssemblyInfo.cs
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.csproj.CoreCompileInputs.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\refint\FunctionsDepth.dll
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.pdb
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\FunctionsDepth.genruntimeconfig.cache
+C:\Users\seppg\OneDrive\Bureaublad\ma\bewijzenmap\periode13\flex\extras\FunctionsDepth\FunctionsDepth\obj\Debug\net6.0\ref\FunctionsDepth.dll
