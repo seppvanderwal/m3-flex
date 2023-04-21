@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\seppg\\OneDrive\\Bureaublad\\ma\\bewijzenmap\\periode13\\flex\\extras\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\seppg\\OneDrive\\Bureaublad\\ma\\bewijzenmap\\periode13\\flex\\m3-flex\\extras\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\seppg\\OneDrive\\Bureaublad\\ma\\bewijzenmap\\periode13\\flex\\extras\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\seppg\\OneDrive\\Bureaublad\\ma\\bewijzenmap\\periode13\\flex\\m3-flex\\extras\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\seppg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\seppg\\OneDrive\\Bureaublad\\ma\\bewijzenmap\\periode13\\flex\\extras\\HelloWorld\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\seppg\\OneDrive\\Bureaublad\\ma\\bewijzenmap\\periode13\\flex\\m3-flex\\extras\\HelloWorld\\HelloWorld\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\seppg\\AppData\\Roaming\\NuGet\\NuGet.Config",
